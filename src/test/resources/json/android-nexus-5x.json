@@ -1,0 +1,7 @@
+{
+  "platformName": "android",
+  "automationName": "UiAutomator2",
+  "platformVersion": "10",
+  "deviceName": "Nexus 5X API 29",
+  "app": "resources/apps/VodQA.apk"
+}
